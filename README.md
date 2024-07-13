@@ -11,8 +11,6 @@ This project aims to analyze data from previous editions of the Olympics to gain
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Acknowledgements](#acknowledgements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Fetch and display medal tallies for different countries and years.
