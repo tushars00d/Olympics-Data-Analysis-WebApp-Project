@@ -67,16 +67,16 @@ To run the Streamlit web app:
     ```
 
 ## Project Structure
-Olympics-data-analysis-webapp/
-app.py # Main script to run the Streamlit app
-helper.py # Helper functions for data processing and visualization
-requirements.txt # List of required Python packages
-README.md # Project documentation
-athlete_events.csv # Downloaded dataset from Kaggle 
+-Olympics-data-analysis-webapp/
+-app.py # Main script to run the Streamlit app
+-helper.py # Helper functions for data processing and visualization
+-requirements.txt # List of required Python packages
+-README.md # Project documentation
+-athlete_events.csv # Downloaded dataset from Kaggle 
 
 
 ## Acknowledgements
 I would like to thank the CampusX YouTube channel for their amazing tutorial video. The clear and detailed explanation helped me understand the concepts of data science and data analysis in more depth.
 
-- [CampusX YouTube Channel](https://www.youtube.com/channel/UC9Qpi6jke6lTtQ6SIdrDApA)
+- [CampusX YouTube Channel](https://www.youtube.com/watch?v=5nQXhusiu7s)
 
