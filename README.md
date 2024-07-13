@@ -67,13 +67,12 @@ To run the Streamlit web app:
     ```
 
 ## Project Structure
-olympics-data-analysis-webapp/
-│
-├── app.py # Main script to run the Streamlit app
-├── helper.py # Helper functions for data processing and visualization
-├── requirements.txt # List of required Python packages
-├── README.md # Project documentation
-└── your_data.csv # Downloaded dataset from Kaggle
+Olympics-data-analysis-webapp/
+app.py # Main script to run the Streamlit app
+helper.py # Helper functions for data processing and visualization
+requirements.txt # List of required Python packages
+README.md # Project documentation
+athlete_events.csv # Downloaded dataset from Kaggle 
 
 
 ## Acknowledgements
